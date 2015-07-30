@@ -1,3 +1,14 @@
+* Table of Contents
+- [[#Setup][Setup]]
+  - [[#Register for Link][Register for Link]]
+  - [[#Download Drivers][Download Drivers]]
+  - [[#Auto Completion Synchronization][Auto Completion Synchronization]]
+- [[#Cool Things][Cool Things]]
+  - [[#Auto Completion][Auto Completion]]
+  - [[#Auto Format][Auto Format]]
+  - [[#Surround With][Surround With]]
+  - [[#Extend/Shrink selection][Extend/Shrink selection]]
+  - [[#In-line Warnings][In-line Warnings]]
 * Using 0xDBE
 [[https://www.jetbrains.com/dbe/][Download link]]
 ** Setup
