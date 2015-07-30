@@ -35,7 +35,9 @@
 *** Auto Completion
     Auto Completion works for both columns and tables
     [[imgs/ac.gif]]
+
     And there are handy built in templates - awesome!
+
     [[imgs/templates.gif]]
 *** Auto Format
     The auto formatter that comes out of the box is also quite nice well:
