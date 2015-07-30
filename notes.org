@@ -17,7 +17,9 @@
       [[imgs/sql-conn.png]]
 *** Auto Completion Synchronization
     To use Auto Completion, you will need to synchronize the database.
+
     [[imgs/ac.png]]
+
 ** Cool Things
 *** Auto Completion
     Auto Completion works for both columns and tables
@@ -32,6 +34,6 @@
     [[imgs/surround.gif]]
 *** Extend/Shrink selection
     Great for selecting things:
+    [[imgs/region.gif]]
 *** In-line Warnings
-    Great that it provides real-time checking:
-*** memory 
+    Great that it provides real-time checking.
