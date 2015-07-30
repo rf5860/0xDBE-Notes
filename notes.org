@@ -1,0 +1,37 @@
+* Using 0xDBE
+[[https://www.jetbrains.com/dbe/][Download link]]
+** Setup
+*** Register for Link
+    Sign up to the [[https://www.jetbrains.com/dbe/eap/][Early Access Program]]
+*** Download Drivers
+    - Select new Datasource
+    - In the dialog, select *Drivers --> Oracle*
+      [[imgs/new-driver.png]]
+    - For dialect, select *Oracle SQL Plus*
+      You should get a prompt asking you if you want to download Oracle drivers. Select yes.
+    - Click *Apply* and *Ok*
+      [[imgs/settings.png]]
+    - Select new Datasource
+      [[imgs/new-driver.png]]
+    - Input your SQL Database Details Details; ensure you select "SID" after the *URL:* portion
+      [[imgs/sql-conn.png]]
+*** Auto Completion Synchronization
+    To use Auto Completion, you will need to synchronize the database.
+    [[imgs/ac.png]]
+** Cool Things
+*** Auto Completion
+    Auto Completion works for both columns and tables
+    [[imgs/ac.gif]]
+    And there are handy built in templates - awesome!
+    [[imgs/templates.gif]]
+*** Auto Format
+    The auto formatter that comes out of the box is also quite nice well:
+    [[imgs/format.gif]]
+*** Surround With
+    Surround With is useful if you're dealing with subqueries:
+    [[imgs/surround.gif]]
+*** Extend/Shrink selection
+    Great for selecting things:
+*** In-line Warnings
+    Great that it provides real-time checking:
+*** memory 
